@@ -1,0 +1,11 @@
+CPU Information:
+  Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+  Logical Cores: 12
+  Total RAM: 15 GB
+
+GPU Information:
+  Device: NVIDIA GeForce GTX 1050 Ti
+  CUDA Cores: ~768 (estimated)
+  Clock Speed: 1620 MHz
+  Global Memory: 4095 MB
+  Compute Capability: 6.1
