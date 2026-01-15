@@ -9,6 +9,6 @@ a.out
 *.o
 
 # common build folders
-build/
-bin/
-out/
+**/build/
+**/bin/
+**/out/
