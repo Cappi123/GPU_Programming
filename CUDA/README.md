@@ -247,8 +247,8 @@ All programs compiled with NVCC 13.1
 
 ### Build
 ```bash
-- mkdir build
-- nvcc -odir build FILENAME.cu -o build/FILENAME 
+mkdir build
+nvcc -odir build FILENAME.cu -o build/FILENAME 
 ```
 
 ### Run
